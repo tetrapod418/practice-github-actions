@@ -1,0 +1,20 @@
+{
+  "name": "practice-github-actions",
+  "version": "1.0.0",
+  "description": "for GitHub Actions Practice #2 # README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetrapod418/practice-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tetrapod418/practice-github-actions/issues"
+  },
+  "homepage": "https://github.com/tetrapod418/practice-github-actions#readme"
+}
