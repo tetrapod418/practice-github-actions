@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/tetrapod418/practice-github-actions/issues"
   },
-  "homepage": "https://github.com/tetrapod418/practice-github-actions#readme"
+  "homepage": "https://github.com/tetrapod418/practice-github-actions#readme",
+  "devDependencies": {
+    "textlint": "^13.3.3",
+    "textlint-rule-ja-no-mixed-period": "^3.0.1"
+  }
 }
